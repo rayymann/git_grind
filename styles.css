@@ -1,0 +1,12 @@
+.main-menu {
+    list-style: none;
+    padding: 20px;
+}
+.main-menu li {
+    display: block;
+    margin-bottom: 10px;
+}
+.main-menu li a {
+    text-transform: uppercase;
+    font-size: 16px;
+}
