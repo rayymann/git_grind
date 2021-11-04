@@ -22,3 +22,13 @@
 .breadcrumb li {
     margin-right: 10px;
 }
+
+/* Card */
+
+.card {
+    border: 1px solid #000;
+    padding: 20px;
+}
+.card__header {
+    margin-bottom: 15px;
+}
