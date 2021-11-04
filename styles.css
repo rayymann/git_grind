@@ -10,3 +10,15 @@
     text-transform: uppercase;
     font-size: 16px;
 }
+
+/* Breadcrumb */
+
+.breadcrumb {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+    display: flex;
+}
+.breadcrumb li {
+    margin-right: 10px;
+}
