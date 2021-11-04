@@ -32,3 +32,6 @@
 .card__header {
     margin-bottom: 15px;
 }
+.card__footer {
+    border: 1px solid #000;
+}
