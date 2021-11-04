@@ -36,3 +36,9 @@
     border: 1px solid #000;
     padding: 10px;
 }
+
+/* Hero */
+
+.hero p {
+    font-size: 18px;
+}
